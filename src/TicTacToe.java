@@ -1,6 +1,10 @@
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Developed by Mohammad Mahdi Salmani
+ */
+
 public class TicTacToe {
     private int blankSpace = 9;
     private final char[] players = {'X', 'O'};
